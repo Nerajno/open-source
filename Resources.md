@@ -11,6 +11,10 @@ To contribute add a resource on the list below using this template.
 
 - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - the MDN page that contains tutorials, references and advanced topics on HTML. Add by [Vanessa Poppe](https://github.com/vanessacor)
 
+- [Git Emergency Sheet - Oh Shit, Git!?!](https://ohshitgit.com/) - a basic resource guide walking through an ohshit git situation. Added by [Nerando Johnson](https://github.com/Nerajno)
+
+
+
 ## Accessibility
 
 - [W3C Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/) - a list of web accessibility requirements for websites, web applications, browsers and other tools. Add by [Vanessa Poppe](https://github.com/vanessacor)
@@ -18,6 +22,7 @@ To contribute add a resource on the list below using this template.
 ## Cheatsheets
 
 - [GitHub CheatSheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) - commonly Git command line instructions for quick reference. Add by [Vanessa Poppe](https://github.com/vanessacor)
+
 
 ## Design
 
